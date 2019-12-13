@@ -40,7 +40,7 @@ paths:
                   value:
                     - id: '1'
                       category:
-                        name: dog
+                        name: cat
                       photoUrls:
                         - 'https://somewhere.com/picture1.png'
                         - 'https://somewhere.com/picture2.png'
